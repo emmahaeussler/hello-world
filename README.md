@@ -1,3 +1,4 @@
 # hello-world
-good morning star shine the earth says hello
-My name is Emma. I am a sophomore computer science student at Texs A&M.
+Howdy!
+My name is Emma Haeussler and I am a junior computer science student at Texas A&M University. I am interested in full-stack development and UI/UX design. My passion is learning, and I try to incorporate a posture of continuous learning in everything I do. 
+Gig 'em!
